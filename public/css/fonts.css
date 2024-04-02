@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Aboreto ;
+    src: url(@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap'));
+}
+
+@font-face {
+    font-family: paragrafo ;
+    src: url(@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Edu+SA+Beginner:wght@400..700&display=swap'));
+}

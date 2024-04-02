@@ -1,0 +1,143 @@
+body{
+
+    background-color: rgb(1, 43, 27);
+    background-size: 1300px;
+    background-repeat: no-repeat;
+    }
+    
+    .container{
+     flex-direction: column;
+    display: flex;
+    padding: 20px;
+    margin: 10px;
+    
+    }
+    
+    
+    
+    .capa{
+
+        height: 500px;
+            width: auto;
+
+    }
+    img{
+         
+       margin-right: 10px;
+        width: 200px;
+        color: aliceblue;
+        justify-content: flex-start;
+       align-content: end;
+       align-self: flex-start;
+       border-radius: 5px;
+
+        }
+    
+    .cima{
+        display: flex;
+        flex-direction: row;
+        margin: 10px;
+        padding:0px;
+        padding-left: 0px;
+        text-align:start;
+        justify-content:space-between;
+        align-items: center;
+        border: solid 1px #FFD700;
+    }
+    
+    
+    .meio{
+    display: flex;
+    color: aliceblue;
+    justify-content: center;
+    align-items:start;
+    text-align: start;
+    }
+    
+    .texto{
+        display: flex;
+        flex-direction: column;
+       font-size: 22px;
+    
+        margin: 0px  30px;
+        
+    }
+    
+    
+    
+    
+    a{
+    justify-content: space-around;
+    color: aliceblue;
+    background-color: black;
+    padding: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    text-shadow: 0px 0px 15px ;
+    }
+
+    h1 {
+        font-family: "Aboreto", ;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+      p{
+
+        font-family: "paragrafo";
+        font-family: "Edu SA Beginner", cursive;
+        font-optical-sizing: auto;
+       
+        font-style: normal;
+      }
+
+
+        .container2{
+            display: flex;
+            justify-content: center;
+            flex-direction: row;
+           background-color: #789461;
+
+        }
+
+      .cartao{
+       
+        display: inline-block;
+        padding: 12px;
+        margin: 30px 50px;
+        background-color:  rgb(1, 43, 27);
+        text-align: center;
+        width: 200px;
+        border: solid 1px #FFD700;
+        color:wheat;
+        position: relative;
+       
+
+      }
+
+      .none{
+        text-align: center;
+        color: aliceblue;
+        font-family: cursive;
+        font-size: 50;
+      
+      }
+
+      .non{
+        position: fixed;
+        text-align: center;
+        align-items: center;
+
+      }
+
+      .tb{
+        size: 300px;
+        background-color: #789461;
+        box-sizing: border-box;
+        color: aliceblue;
+        display: inline-block;
+        margin: 10px;
+        padding: 10px;
+
+
+      }
